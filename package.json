@@ -7,7 +7,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"bin": {
-		"web": "./bin/publish.js"
+		"citylog": "./bin/citylog.js"
 	},
 	"keywords": [],
 	"author": "",
